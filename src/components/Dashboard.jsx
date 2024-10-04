@@ -258,7 +258,7 @@ export default function Dashboard() {
 
       {isModalOpen && (
         <div className="fixed inset-0 bg-black bg-opacity-50  flex items-center justify-center">
-          <div className="bg-white p-8 rounded-lg max-w-2xl h-[82vh] w-[1100px] flex gap-10 ">
+          <div className="bg-white p-8 rounded-lg max-w-2xl h-[600px] w-[1400px] flex gap-10 ">
             <div className="flex-3">
               <h2 className="text-2xl font-bold mb-6">Invite to Event</h2>
               <div className="mb-6">
@@ -293,7 +293,7 @@ export default function Dashboard() {
                   <span className="ml-4">{duration} hrs</span>
                 </div>
               </div>
-              <div className="mb-6">
+              <div className="mb-6 w-[260px]">
                 <h3 className="text-xl font-semibold mb-4">Price Breakdown</h3>
                 <div className="bg-gray-100 p-4 rounded-lg">
                   <div className="flex justify-between mb-2">

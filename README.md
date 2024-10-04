@@ -9,7 +9,7 @@
 ## Live Demo
 
 Check out the live demo of the project deployed here:  
-[Live Demo Link](https://multi-stepform-gurucool.netlify.app/)
+[Live Demo Link](https://hubx-frontend-task-ankur.netlify.app/)
 
 ## Technologies Used
 
